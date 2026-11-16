@@ -1,0 +1,8 @@
+META pooled r: 0.1742 CI: [0.1063 0.2405] Q: 77.036 I2: 0.8832 tau: 0.0976 PI: [-0.0633  0.393 ]
+Lifetime partners: Yes vs Other reported: 0.03 one-tail: 0.0322 two-sided: 0.0643
+Lifetime partners: Yes vs No reported: 1.0 one-tail: 1 two-sided: 1
+Lifetime partners: Other vs No reported: 0.152 one-tail: 0.1515 two-sided: 0.303
+Dating-app success: Other vs No reported: 0.004 one-tail: 0.0038 two-sided: 0.0076
+Dating-app success: Yes vs No reported: 1.0 one-tail: 1 two-sided: 1
+Dating-app success: Yes vs Other reported: 0.011 one-tail: 0.0114 two-sided: 0.0228
+All output saved in /mnt/data

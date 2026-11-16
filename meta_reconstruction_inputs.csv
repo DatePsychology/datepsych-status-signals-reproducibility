@@ -1,0 +1,11 @@
+study,published_rounded_r,published_rounded_ci_lower,published_rounded_ci_upper,reconstructed_random_effects_weight_pct
+Blanchard & Clemmensen (1985),0.3,0.13,0.47,6.61
+Latkin et al. (1993),0.2,0.16,0.23,12.66
+Latkin & Vlahov (1998),0.15,-0.04,0.34,6.36
+Meston et al. (1998),0.1,0.01,0.19,10.69
+Gibson et al. (1999),0.1,0.01,0.19,10.69
+Bradley & Wildman (2002),0.2,0.1,0.3,10.1
+Rao et al. (2017),0.38,0.31,0.45,11.08
+Latkin et al. (2017),0.11,0.03,0.19,11.11
+Rasmussen et al. (2018),0.07,0.04,0.1,12.8
+King et al. (2019),0.16,0.01,0.31,7.91
